@@ -1,0 +1,111 @@
+{
+  "titulo": "Publicación preliminar de plazas para la reasignación docente 2025 por interés personal y unidad familiar",
+    "texto": "A continuación, se presenta la relación preliminar de plazas consideradas para el proceso de reasignación docente 2025 para las causales por interés personal y unidad familiar.\n    Cada DRE, GRE y UGEL deberá validar este listado de plazas a través del sistema NEXUS hasta el miércoles 11 de junio a fin de realizar la publicación final en la fecha establecida en el cronograma aprobado.",
+  "fecha": "Fecha de prepublicación: 4 de junio de 2025",
+  "actualizado":"Actualizado al: 4 de junio de 2025",
+  "departamentos": [
+    {
+      "nombre": "Amazonas",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/amazonas.xlsx"
+    },
+    {
+      "nombre": "Áncash",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/ancash.xlsx"
+    },
+    {
+      "nombre": "Apurímac",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/apurimac.xlsx"
+    },
+    {
+      "nombre": "Arequipa",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/arequipa.xlsx"
+    },
+        {
+      "nombre": "Ayacucho",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/ayacucho.xlsx"
+    },
+    {
+      "nombre": "Cajamarca",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/cajamarca.xlsx"
+    },
+    {
+      "nombre": "Callao",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/callao.xlsx"
+    },
+    {
+      "nombre": "Cusco",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/cusco.xlsx"
+    },
+     {
+      "nombre": "Huancavelica",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/huancavelica.xlsx"
+    },
+     {
+      "nombre": "Huánuco",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/huanuco.xlsx"
+    },{
+      "nombre": "Ica",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/ica.xlsx"
+    },
+    {
+      "nombre": "Junín",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/junin.xlsx"
+    },
+{
+      "nombre": "La Libertad",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/la_libertad.xlsx"
+    },
+    {
+      "nombre": "Lambayeque",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/lambayeque.xlsx"
+    },
+  {
+      "nombre": "Lima Metropolitana",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/lima_metropolitana.xlsx"
+    },
+ {
+      "nombre": "Lima Provincias",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/lima_provincias.xlsx"
+    },
+     {
+      "nombre": "Loreto",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/loreto.xlsx"
+    },
+        {
+      "nombre": "Madre de Dios",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/madre_de_dios.xlsx"
+    },
+           {
+      "nombre": "Moquegua",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/moquegua.xlsx"
+    },
+            {
+      "nombre": "Pasco",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/pasco.xlsx"
+    },
+                {
+      "nombre": "Piura",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/piura.xlsx"
+    },
+                  {
+      "nombre": "Puno",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/puno.xlsx"
+    },
+                   {
+      "nombre": "San Martín",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/san_martin.xlsx"
+    },
+                       {
+      "nombre": "Tacna",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/tacna.xlsx"
+    },
+                         {
+      "nombre": "Tumbes",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/tumbes.xlsx"
+    },
+                             {
+      "nombre": "Ucayali",
+      "archivo_excel": "https://www.minedu.gob.pe/reforma-magisterial/pdf/reasignacion/2025/plazas/ucayali.xlsx"
+    }
+  ]
+}
