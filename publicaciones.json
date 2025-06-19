@@ -57,55 +57,55 @@
     },
     {
       "nombre": "Lambayeque",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238046/6879390-lambayeque-34.xlsx?v=1750352389"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241014/6881439-lambayeque-35.xlsx?v=1750375492"
     },
   {
       "nombre": "Lima Metropolitana",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238047/6879390-lima_metropolitana.xlsx?v=1750352389"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241015/6881439-lima_metropolitana-1.xlsx?v=1750375492"
     },
  {
       "nombre": "Lima Provincias",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238048/6879390-lima_provincias.xlsx?v=1750352390"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241016/6881439-lima_provincias-1.xlsx?v=1750375493"
     },
      {
       "nombre": "Loreto",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238049/6879390-loreto-36.xlsx?v=1750352390"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241017/6881439-loreto-37.xlsx?v=1750375493"
     },
         {
       "nombre": "Madre de Dios",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238051/6879390-madre_de_dios.xlsx?v=1750352390"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241021/6881439-madre_de_dios-1.xlsx?v=1750375544"
     },
            {
       "nombre": "Moquegua",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238165/6879390-moquegua-34.xlsx?v=1750352598"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241022/6881439-moquegua-35.xlsx?v=1750375544"
     },
             {
       "nombre": "Pasco",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238167/6879390-pasco-37.xlsx?v=1750352598"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241032/6881439-pasco-38.xlsx?v=1750375698"
     },
                 {
       "nombre": "Piura",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238168/6879390-piura-34.xlsx?v=1750352599"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241033/6881439-piura-35.xlsx?v=1750375699"
     },
                   {
       "nombre": "Puno",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238169/6879390-puno-38.xlsx?v=1750352599"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241039/6881439-puno-39.xlsx?v=1750375797"
     },
                    {
       "nombre": "San Martín",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238172/6879390-san_martin.xlsx?v=1750352600"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241057/6881439-san_martin-1.xlsx?v=1750376300"
     },
                        {
       "nombre": "Tacna",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238173/6879390-tacna-36.xlsx?v=1750352600g"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241058/6881439-tacna-37.xlsx?v=1750376300"
     },
                          {
       "nombre": "Tumbes",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238174/6879390-tumbes-33.xlsx?v=1750352601"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241059/6881439-tumbes-34.xlsx?v=1750376337"
     },
                              {
       "nombre": "Ucayali",
-      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8238175/6879390-ucayali-35.xlsx?v=1750352601"
+      "archivo_excel": "https://cdn.www.gob.pe/uploads/document/file/8241060/6881439-ucayali-36.xlsx?v=1750376337"
     }
   ]
 }
